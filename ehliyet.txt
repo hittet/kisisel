@@ -1,2 +1,3 @@
 ehliyet bilgileri
 cıkış tarihi:1998
+sınıf:B
